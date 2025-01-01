@@ -1,0 +1,8 @@
+D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-MinSizeRel/CMakeFiles/curriculum_design_code.dir
+D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-MinSizeRel/CMakeFiles/edit_cache.dir
+D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-MinSizeRel/CMakeFiles/rebuild_cache.dir
+D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-MinSizeRel/CMakeFiles/list_install_components.dir
+D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-MinSizeRel/CMakeFiles/install.dir
+D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-MinSizeRel/CMakeFiles/install/local.dir
+D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-MinSizeRel/CMakeFiles/curriculum_design_code_autogen_timestamp_deps.dir
+D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-MinSizeRel/CMakeFiles/curriculum_design_code_autogen.dir

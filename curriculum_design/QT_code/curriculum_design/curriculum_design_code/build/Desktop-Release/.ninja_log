@@ -1,0 +1,18 @@
+# ninja log v6
+25	182	7571815597322140	curriculum_design_code_autogen/mocs_compilation.cpp	1853e31a6f536094
+11	36	7571677605844922	CMakeFiles/clean.additional	b05441ad844ea1c3
+3446	3841	7571815631536553	curriculum_design_code.exe	e2b5986c3fb70d17
+529	3375	7571677612062533	CMakeFiles/curriculum_design_code.dir/main.cpp.obj	68171bb249f1a70a
+25	182	7571815597322140	D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-Release/curriculum_design_code_autogen/mocs_compilation.cpp	1853e31a6f536094
+37	52	7571677606104935	clean	a18da497079285b8
+203	1712	7571815599095612	CMakeFiles/curriculum_design_code.dir/dialog_delete_arc.cpp.obj	64ffb57896107e03
+25	182	7571815597322140	curriculum_design_code_autogen/timestamp	1853e31a6f536094
+25	182	7571815597322140	D:/C++/curriculum_design/QT_code/curriculum_design/curriculum_design_code/build/Desktop-Release/curriculum_design_code_autogen/timestamp	1853e31a6f536094
+193	1705	7571815598987795	CMakeFiles/curriculum_design_code.dir/dialog_arc.cpp.obj	ee37afe8f672145a
+526	2974	7571677612022249	CMakeFiles/curriculum_design_code.dir/curriculum_design_code_autogen/mocs_compilation.cpp.obj	dd3898a71f3cc698
+188	1657	7571815598896989	CMakeFiles/curriculum_design_code.dir/dialog.cpp.obj	aee87e313b7f5658
+543	2980	7571677612190558	CMakeFiles/curriculum_design_code.dir/tsort.cpp.obj	8ef549bcbc457f92
+184	3446	7571815598896989	CMakeFiles/curriculum_design_code.dir/mainwindow.cpp.obj	63fc08c95d86ad87
+47	3416	7571841904597175	build.ninja	daf0c4ad7d8c19c7
+207	1670	7571815599115687	CMakeFiles/curriculum_design_code.dir/dialog_tsort.cpp.obj	cfe9648c3c3f0252
+198	1631	7571815598987795	CMakeFiles/curriculum_design_code.dir/dialog_delete.cpp.obj	a601045f1ec1e5ab
