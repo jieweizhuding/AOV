@@ -253,21 +253,21 @@ void MainWindow::on_save_button_clicked()
 //拓扑排序(OK)
 void MainWindow::on_Tsort_button_clicked()
 {
-    // if()
     infoLogger->info("开始拓扑排序");
     AOV::Tsort<Vertexinfo> t(graph);
     std::vector<std::string> v;
     v=t.topologicalSortKahn(t.graph,t.h);
+    Dialog_Tsort * ptr=new Dialog_Tsort();
+    QListWidget* p=ptr->findChild<QListWidget*>();
     if(t.h){
         this->h=1;
         debugLogger->debug("图中有环存在");
-        QMessageBox::information(this,tr("错误"),tr("图中有环存在"));
-        return;
+        QMessageBox::information(this,tr("错误"),tr("图中有环存在，请结合排序内容与图像修改图"));
+        ptr->setWindowTitle("去除环后的拓扑排序");
+    }else{
+        this->h=2;
+        ptr->setWindowTitle("拓扑排序显示");
     }
-    Dialog_Tsort * ptr=new Dialog_Tsort();
-    QListWidget* p=ptr->findChild<QListWidget*>();
-    this->h=2;
-    ptr->setWindowTitle("拓扑排序显示");
     for(std::string s:v){
         p->addItem(QString::fromStdString(s));
     }
